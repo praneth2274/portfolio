@@ -1,0 +1,11 @@
+{
+  "name": "praneth-portfolio",
+  "version": "1.0.0",
+  "description": "Praneth S Portfolio Backend — Vercel Serverless",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
